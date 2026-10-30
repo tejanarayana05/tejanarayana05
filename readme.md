@@ -78,9 +78,6 @@ My work involves understanding operational problems, translating requirements in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejanarayana05&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejanarayana05&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages">
-
 <img width="95%" src="https://streak-stats.demolab.com?user=tejanarayana05&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 
 </div>
