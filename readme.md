@@ -16,7 +16,6 @@ Building practical software, intelligent workflows, and AI-powered products.
 
 </div>
 
----
 
 ## About
 
@@ -73,7 +72,6 @@ My work involves understanding operational problems, translating requirements in
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
 ## GitHub activity
 
 <div align="center">
@@ -82,10 +80,9 @@ My work involves understanding operational problems, translating requirements in
 
 </div>
 
----
 
 
-### Let's build something useful.
+## Let's build something useful.
 
 [Website](https://tejanarayana.com) · [LinkedIn](https://www.linkedin.com/in/teja-na/) · [Email](mailto:work@tejanarayana.com)
 
